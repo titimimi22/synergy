@@ -1,0 +1,275 @@
+[Mon Mar 06 22:34:24.802774 2023] [mpm_winnt:notice] [pid 1904:tid 504] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Mon Mar 06 22:34:24.803773 2023] [mpm_winnt:notice] [pid 1904:tid 504] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Mar 06 22:34:24.803773 2023] [core:notice] [pid 1904:tid 504] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Mon Mar 06 22:34:24.804771 2023] [mpm_winnt:notice] [pid 1904:tid 504] AH00418: Parent: Created child process 4380
+[Mon Mar 06 22:34:25.201710 2023] [mpm_winnt:notice] [pid 4380:tid 484] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 06 23:15:47.654395 2023] [mpm_winnt:notice] [pid 1904:tid 504] AH00424: Parent: Received restart signal -- Restarting the server.
+httpd.exe: Syntax error on line 538 of C:/synergy/apache/conf/httpd.conf: Cannot load c:/synergy/php/php8apache2_4.dll into server: \xcd\xe5 \xed\xe0\xe9\xe4\xe5\xed \xf3\xea\xe0\xe7\xe0\xed\xed\xfb\xe9 \xec\xee\xe4\xf3\xeb\xfc.  
+[Mon Mar 06 23:15:49.657043 2023] [mpm_winnt:notice] [pid 4380:tid 484] AH00364: Child: All worker threads have exited.
+[Mon Mar 06 23:17:14.665515 2023] [core:warn] [pid 5856:tid 468] AH00098: pid file C:/synergy/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Mar 06 23:17:14.668510 2023] [mpm_winnt:notice] [pid 5856:tid 468] AH00455: Apache/2.4.55 (Win64) configured -- resuming normal operations
+[Mon Mar 06 23:17:14.668510 2023] [mpm_winnt:notice] [pid 5856:tid 468] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Mar 06 23:17:14.668510 2023] [core:notice] [pid 5856:tid 468] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Mon Mar 06 23:17:14.670503 2023] [mpm_winnt:notice] [pid 5856:tid 468] AH00418: Parent: Created child process 7416
+[Mon Mar 06 23:17:14.975687 2023] [mpm_winnt:notice] [pid 7416:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 06 23:17:17.127971 2023] [mpm_winnt:notice] [pid 5856:tid 468] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 06 23:17:19.134879 2023] [mpm_winnt:notice] [pid 7416:tid 504] AH00364: Child: All worker threads have exited.
+[Mon Mar 06 23:17:19.154828 2023] [mpm_winnt:notice] [pid 5856:tid 468] AH00430: Parent: Child process 7416 exited successfully.
+[Mon Mar 06 23:24:05.671316 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Mar 06 23:24:05.672313 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Mar 06 23:24:05.672313 2023] [core:notice] [pid 7672:tid 452] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Mon Mar 06 23:24:05.673311 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00418: Parent: Created child process 13304
+[Mon Mar 06 23:24:06.209878 2023] [mpm_winnt:notice] [pid 13304:tid 520] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 06 23:24:53.328826 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Mar 06 23:24:53.358746 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Mar 06 23:24:53.358746 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Mar 06 23:24:53.358746 2023] [core:notice] [pid 7672:tid 452] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Mon Mar 06 23:24:53.359743 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00418: Parent: Created child process 1236
+[Mon Mar 06 23:24:54.330150 2023] [mpm_winnt:notice] [pid 1236:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 06 23:24:55.330531 2023] [mpm_winnt:notice] [pid 13304:tid 520] AH00364: Child: All worker threads have exited.
+[Mon Mar 06 23:33:52.217445 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Mar 06 23:33:52.248364 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Mar 06 23:33:52.248364 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Mar 06 23:33:52.248364 2023] [core:notice] [pid 7672:tid 452] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Mon Mar 06 23:33:52.249363 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00418: Parent: Created child process 11180
+[Mon Mar 06 23:33:53.218833 2023] [mpm_winnt:notice] [pid 11180:tid 504] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 06 23:33:54.823543 2023] [mpm_winnt:notice] [pid 1236:tid 468] AH00364: Child: All worker threads have exited.
+[Mon Mar 06 23:48:50.704491 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 06 23:48:52.706142 2023] [mpm_winnt:notice] [pid 11180:tid 504] AH00364: Child: All worker threads have exited.
+[Mon Mar 06 23:48:52.726088 2023] [mpm_winnt:notice] [pid 7672:tid 452] AH00430: Parent: Child process 11180 exited successfully.
+[Tue Mar 14 16:01:03.203571 2023] [mpm_winnt:notice] [pid 4216:tid 132] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Tue Mar 14 16:01:03.203571 2023] [mpm_winnt:notice] [pid 4216:tid 132] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Mar 14 16:01:03.203571 2023] [core:notice] [pid 4216:tid 132] AH00094: Command line: 'C:\\synergy\\apache\\bin\\httpd.exe -d C:/synergy/apache'
+[Tue Mar 14 16:01:03.213573 2023] [mpm_winnt:notice] [pid 4216:tid 132] AH00418: Parent: Created child process 7100
+[Tue Mar 14 16:01:12.219659 2023] [mpm_winnt:notice] [pid 7100:tid 468] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 19:56:37.223378 2023] [core:warn] [pid 988:tid 428] AH00098: pid file D:/synergy/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 10 19:56:37.494574 2023] [mpm_winnt:notice] [pid 988:tid 428] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 19:56:37.494574 2023] [mpm_winnt:notice] [pid 988:tid 428] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 19:56:37.495574 2023] [core:notice] [pid 988:tid 428] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 19:56:37.501574 2023] [mpm_winnt:notice] [pid 988:tid 428] AH00418: Parent: Created child process 2840
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2840:tid 408] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 19:58:34.640033 2023] [mpm_winnt:notice] [pid 988:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 10 19:58:36.649472 2023] [mpm_winnt:notice] [pid 2840:tid 408] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 19:58:36.697471 2023] [mpm_winnt:notice] [pid 988:tid 428] AH00430: Parent: Child process 2840 exited successfully.
+[Mon Apr 10 20:00:57.497217 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 20:00:57.497217 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 20:00:57.497217 2023] [core:notice] [pid 11388:tid 404] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 20:00:57.503217 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00418: Parent: Created child process 3096
+[Mon Apr 10 20:00:58.028217 2023] [mpm_winnt:notice] [pid 3096:tid 420] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 20:17:49.942311 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 20:17:49.994311 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 20:17:49.994311 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 20:17:49.994311 2023] [core:notice] [pid 11388:tid 404] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 20:17:50.000311 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00418: Parent: Created child process 6464
+[Mon Apr 10 20:17:50.944310 2023] [mpm_winnt:notice] [pid 6464:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 20:18:06.894166 2023] [mpm_winnt:notice] [pid 3096:tid 420] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:19:21.578766 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host2.example.com] does not exist
+[Mon Apr 10 22:19:21.681766 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:19:21.681766 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:19:21.681766 2023] [core:notice] [pid 11388:tid 404] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:19:21.687793 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00418: Parent: Created child process 10076
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host2.example.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host.example.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/apache/docs/dummy-host2.example.com] does not exist
+[Mon Apr 10 22:19:22.587783 2023] [mpm_winnt:notice] [pid 10076:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:19:24.589766 2023] [mpm_winnt:notice] [pid 6464:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:27:10.801766 2023] [mpm_winnt:notice] [pid 11388:tid 404] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00526: Syntax error on line 35 of D:/synergy/apache/conf/extra/httpd-vhosts.conf:
+The port number "D:\\synergy\\www\\phpmyadmin" is outside the appropriate range (i.e., 1..65535).
+[Mon Apr 10 22:27:12.822766 2023] [mpm_winnt:notice] [pid 10076:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:54:19.550941 2023] [core:warn] [pid 6088:tid 436] AH00098: pid file D:/synergy/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 10 22:54:19.580941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:54:19.580941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:54:19.580941 2023] [core:notice] [pid 6088:tid 436] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:54:19.587941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00418: Parent: Created child process 10132
+[Mon Apr 10 22:54:20.107940 2023] [mpm_winnt:notice] [pid 10132:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:56:04.179941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 22:56:04.214941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:56:04.214941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:56:04.214941 2023] [core:notice] [pid 6088:tid 436] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:56:04.221941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00418: Parent: Created child process 14204
+[Mon Apr 10 22:56:05.181970 2023] [mpm_winnt:notice] [pid 14204:tid 420] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:56:08.755941 2023] [mpm_winnt:notice] [pid 10132:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:56:42.955941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 22:56:43.004941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:56:43.004941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:56:43.004941 2023] [core:notice] [pid 6088:tid 436] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:56:43.011942 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00418: Parent: Created child process 11592
+[Mon Apr 10 22:56:43.968941 2023] [mpm_winnt:notice] [pid 11592:tid 428] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:56:44.978955 2023] [mpm_winnt:notice] [pid 14204:tid 420] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:57:08.347940 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 22:57:08.384941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:57:08.384941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:57:08.384941 2023] [core:notice] [pid 6088:tid 436] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:57:08.391941 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00418: Parent: Created child process 7892
+[Mon Apr 10 22:57:09.355941 2023] [mpm_winnt:notice] [pid 7892:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:57:10.369960 2023] [mpm_winnt:notice] [pid 11592:tid 428] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:59:41.268398 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 22:59:41.299426 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:59:41.299426 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:59:41.299426 2023] [core:notice] [pid 6088:tid 436] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:59:41.305397 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00418: Parent: Created child process 14280
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 22:59:42.278414 2023] [mpm_winnt:notice] [pid 14280:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 22:59:43.288421 2023] [mpm_winnt:notice] [pid 7892:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:59:50.059398 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 10 22:59:52.073426 2023] [mpm_winnt:notice] [pid 14280:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 22:59:52.102427 2023] [mpm_winnt:notice] [pid 6088:tid 436] AH00430: Parent: Child process 14280 exited successfully.
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 22:59:55.741397 2023] [mpm_winnt:notice] [pid 7996:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 22:59:55.741397 2023] [mpm_winnt:notice] [pid 7996:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 22:59:55.741397 2023] [core:notice] [pid 7996:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 22:59:55.747397 2023] [mpm_winnt:notice] [pid 7996:tid 388] AH00418: Parent: Created child process 732
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 22:59:56.302429 2023] [mpm_winnt:notice] [pid 732:tid 448] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:00:39.860351 2023] [mpm_winnt:notice] [pid 7996:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 10 23:01:04.870349 2023] [mpm_winnt:notice] [pid 732:tid 448] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:01:04.905349 2023] [mpm_winnt:notice] [pid 7996:tid 388] AH00430: Parent: Child process 732 exited successfully.
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 23:01:12.840348 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:01:12.840348 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:01:12.840348 2023] [core:notice] [pid 4068:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:01:12.846349 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00418: Parent: Created child process 14232
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+AH00112: Warning: DocumentRoot [D:/synergy/www/synergyhomewors.com] does not exist
+[Mon Apr 10 23:01:13.409377 2023] [mpm_winnt:notice] [pid 14232:tid 436] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:04:01.755937 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:04:01.790043 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:04:01.790043 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:04:01.790043 2023] [core:notice] [pid 4068:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:04:01.797043 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00418: Parent: Created child process 6060
+[Mon Apr 10 23:04:02.761042 2023] [mpm_winnt:notice] [pid 6060:tid 416] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:04:03.773223 2023] [mpm_winnt:notice] [pid 14232:tid 436] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:06:01.187978 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:06:01.234978 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:06:01.234978 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:06:01.234978 2023] [core:notice] [pid 4068:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:06:01.241978 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00418: Parent: Created child process 6848
+[Mon Apr 10 23:06:02.202271 2023] [mpm_winnt:notice] [pid 6848:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:06:03.217304 2023] [mpm_winnt:notice] [pid 6060:tid 416] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:07:12.757236 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:07:12.794235 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:07:12.795234 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:07:12.795234 2023] [core:notice] [pid 4068:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:07:12.801235 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00418: Parent: Created child process 9460
+[Mon Apr 10 23:07:13.760308 2023] [mpm_winnt:notice] [pid 9460:tid 412] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:07:14.774291 2023] [mpm_winnt:notice] [pid 6848:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:08:11.836046 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:08:11.868017 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:08:11.868017 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:08:11.868017 2023] [core:notice] [pid 4068:tid 388] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:08:11.874017 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00418: Parent: Created child process 5560
+[Mon Apr 10 23:08:12.846016 2023] [mpm_winnt:notice] [pid 5560:tid 432] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:08:14.124017 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Apr 10 23:08:16.874037 2023] [mpm_winnt:notice] [pid 5560:tid 432] AH00363: Child: Terminating 62 threads that failed to exit.
+[Mon Apr 10 23:08:16.874037 2023] [mpm_winnt:notice] [pid 5560:tid 432] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:08:16.902017 2023] [mpm_winnt:notice] [pid 4068:tid 388] AH00430: Parent: Child process 5560 exited successfully.
+[Mon Apr 10 23:08:18.551016 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:08:18.551016 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:08:18.551016 2023] [core:notice] [pid 11592:tid 416] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:08:18.557017 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00418: Parent: Created child process 260
+[Mon Apr 10 23:08:19.078048 2023] [mpm_winnt:notice] [pid 260:tid 404] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:08:21.764017 2023] [mpm_winnt:notice] [pid 9460:tid 412] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:13:30.739959 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:13:30.789960 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:13:30.789960 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:13:30.789960 2023] [core:notice] [pid 11592:tid 416] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:13:30.796960 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00418: Parent: Created child process 11816
+[Mon Apr 10 23:13:31.750977 2023] [mpm_winnt:notice] [pid 11816:tid 420] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:13:32.765978 2023] [mpm_winnt:notice] [pid 260:tid 404] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:20:04.581981 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:20:04.640982 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:20:04.640982 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:20:04.640982 2023] [core:notice] [pid 11592:tid 416] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:20:04.646981 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00418: Parent: Created child process 748
+[Mon Apr 10 23:20:05.586982 2023] [mpm_winnt:notice] [pid 748:tid 452] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:20:06.600982 2023] [mpm_winnt:notice] [pid 11816:tid 420] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:22:29.806029 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:22:29.862028 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:22:29.862028 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:22:29.862028 2023] [core:notice] [pid 11592:tid 416] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:22:29.868029 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00418: Parent: Created child process 13784
+[Mon Apr 10 23:22:30.809046 2023] [mpm_winnt:notice] [pid 13784:tid 412] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:22:31.824028 2023] [mpm_winnt:notice] [pid 748:tid 452] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:24:41.709028 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00424: Parent: Received restart signal -- Restarting the server.
+[Mon Apr 10 23:24:41.744029 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00455: Apache/2.4.55 (Win64) PHP/8.2.3 configured -- resuming normal operations
+[Mon Apr 10 23:24:41.744029 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Mon Apr 10 23:24:41.744029 2023] [core:notice] [pid 11592:tid 416] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Mon Apr 10 23:24:41.751028 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00418: Parent: Created child process 2488
+[Mon Apr 10 23:24:42.719056 2023] [mpm_winnt:notice] [pid 2488:tid 444] AH00354: Child: Starting 64 worker threads.
+[Mon Apr 10 23:24:43.721050 2023] [mpm_winnt:notice] [pid 13784:tid 412] AH00364: Child: All worker threads have exited.
+[Mon Apr 10 23:53:46.160408 2023] [mpm_winnt:notice] [pid 11592:tid 416] AH00424: Parent: Received restart signal -- Restarting the server.
+httpd.exe: Syntax error on line 538 of D:/synergy/apache/conf/httpd.conf: Cannot load D:/synergy/php/php8apache2_4.dll into server: \xcd\xe5 \xed\xe0\xe9\xe4\xe5\xed \xf3\xea\xe0\xe7\xe0\xed\xed\xfb\xe9 \xec\xee\xe4\xf3\xeb\xfc.  
+[Mon Apr 10 23:53:48.179499 2023] [mpm_winnt:notice] [pid 2488:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Apr 11 00:13:41.565196 2023] [core:warn] [pid 14652:tid 412] AH00098: pid file D:/synergy/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Apr 11 00:13:41.598225 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:13:41.598225 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:13:41.598225 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:13:41.604196 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 13536
+[Tue Apr 11 00:13:42.140195 2023] [mpm_winnt:notice] [pid 13536:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:27:04.913403 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 11 00:27:04.988403 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:27:04.988403 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:27:04.988403 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:27:04.994402 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 1908
+[Tue Apr 11 00:27:05.916402 2023] [mpm_winnt:notice] [pid 1908:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:27:06.920433 2023] [mpm_winnt:notice] [pid 13536:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Apr 11 00:39:17.809248 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 11 00:39:17.847247 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:39:17.847247 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:39:17.847247 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:39:17.853247 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 1660
+[Tue Apr 11 00:39:18.820350 2023] [mpm_winnt:notice] [pid 1660:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:39:19.824350 2023] [mpm_winnt:notice] [pid 1908:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Apr 11 00:40:35.496681 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 11 00:40:35.545677 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:40:35.545677 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:40:35.545677 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:40:35.551677 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 2508
+[Tue Apr 11 00:40:36.506873 2023] [mpm_winnt:notice] [pid 2508:tid 404] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:40:37.511044 2023] [mpm_winnt:notice] [pid 1660:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Apr 11 00:41:19.056216 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 11 00:41:19.109215 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:41:19.109215 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:41:19.109215 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:41:19.115216 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 3052
+[Tue Apr 11 00:41:20.058287 2023] [mpm_winnt:notice] [pid 3052:tid 432] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:41:49.011678 2023] [mpm_winnt:notice] [pid 2508:tid 404] AH00364: Child: All worker threads have exited.
+[Tue Apr 11 00:41:57.912044 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00424: Parent: Received restart signal -- Restarting the server.
+[Tue Apr 11 00:41:57.958016 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Tue Apr 11 00:41:57.958016 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Tue Apr 11 00:41:57.958016 2023] [core:notice] [pid 14652:tid 412] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Tue Apr 11 00:41:57.964015 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00418: Parent: Created child process 2240
+[Tue Apr 11 00:41:58.922120 2023] [mpm_winnt:notice] [pid 2240:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Apr 11 00:42:02.161806 2023] [mpm_winnt:notice] [pid 3052:tid 432] AH00364: Child: All worker threads have exited.
+[Wed Apr 19 17:55:02.417070 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Apr 19 17:55:04.479613 2023] [mpm_winnt:notice] [pid 2240:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Apr 19 17:55:04.588979 2023] [mpm_winnt:notice] [pid 14652:tid 412] AH00430: Parent: Child process 2240 exited successfully.
+[Wed Apr 19 17:55:55.469947 2023] [mpm_winnt:notice] [pid 3620:tid 296] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Wed Apr 19 17:55:55.485571 2023] [mpm_winnt:notice] [pid 3620:tid 296] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Wed Apr 19 17:55:55.485571 2023] [core:notice] [pid 3620:tid 296] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Wed Apr 19 17:55:55.485571 2023] [mpm_winnt:notice] [pid 3620:tid 296] AH00418: Parent: Created child process 4408
+[Wed Apr 19 17:55:56.532447 2023] [mpm_winnt:notice] [pid 4408:tid 408] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 27 00:32:33.574787 2023] [mpm_winnt:notice] [pid 3620:tid 296] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 27 00:32:35.668580 2023] [mpm_winnt:notice] [pid 4408:tid 408] AH00364: Child: All worker threads have exited.
+[Thu Apr 27 00:32:36.090452 2023] [mpm_winnt:notice] [pid 3620:tid 296] AH00430: Parent: Child process 4408 exited successfully.
+[Thu Apr 27 00:33:29.048764 2023] [mpm_winnt:notice] [pid 3476:tid 284] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Thu Apr 27 00:33:29.048764 2023] [mpm_winnt:notice] [pid 3476:tid 284] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Thu Apr 27 00:33:29.048764 2023] [core:notice] [pid 3476:tid 284] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Thu Apr 27 00:33:29.048764 2023] [mpm_winnt:notice] [pid 3476:tid 284] AH00418: Parent: Created child process 4528
+[Thu Apr 27 00:33:29.736263 2023] [mpm_winnt:notice] [pid 4528:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Apr 27 00:33:56.822576 2023] [mpm_winnt:notice] [pid 3476:tid 284] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Apr 27 00:33:58.853831 2023] [mpm_winnt:notice] [pid 4528:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Apr 27 00:33:58.885081 2023] [mpm_winnt:notice] [pid 3476:tid 284] AH00430: Parent: Child process 4528 exited successfully.
+[Thu Apr 27 22:37:08.219267 2023] [mpm_winnt:notice] [pid 3716:tid 384] AH00455: Apache/2.4.55 (Win64) PHP/8.2.4 configured -- resuming normal operations
+[Thu Apr 27 22:37:08.219267 2023] [mpm_winnt:notice] [pid 3716:tid 384] AH00456: Apache Lounge VS17 Server built: Feb  9 2023 09:58:39
+[Thu Apr 27 22:37:08.219267 2023] [core:notice] [pid 3716:tid 384] AH00094: Command line: 'D:\\synergy\\apache\\bin\\httpd.exe -d D:/synergy/apache'
+[Thu Apr 27 22:37:08.219267 2023] [mpm_winnt:notice] [pid 3716:tid 384] AH00418: Parent: Created child process 3612
+[Thu Apr 27 22:37:09.094266 2023] [mpm_winnt:notice] [pid 3612:tid 400] AH00354: Child: Starting 64 worker threads.
